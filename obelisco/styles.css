@@ -1,0 +1,33 @@
+* {
+   font-size: 1.1em;
+}
+    
+h1 {
+    text-align: center;
+    color: black;
+    background: radial-gradient(circle, rgba(209,235,27,0.2805497198879552) 18%, rgba(0,241,255,1) 56%);
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+body {
+    background: rgb(209,235,27);
+    background: radial-gradient(circle, rgba(209,235,27,0.2805497198879552) 13%, rgba(0,241,255,1) 100%);
+}
+
+div {
+    
+    color: rgb(70, 61, 61);
+}
+
+img {
+    float: left;
+    padding: 0px 5px 5px 0px;
+    
+}
+p {
+    text-align: justify;
+    
+
+}
